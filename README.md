@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with React Native, React and Node
-- 🌱 I’m currently learning JAVA as well
-- ⚡ Fun fact: I worked developing in C++ a software in 2006 for 3 years. After that, I never used C++ again
+Programmer, mobile developer. I am currently working on developing applications for Android / IOS using React Native according to customer demand
+
+- I've worked for 3 years with software development: software in the petroleum area and other software for use in patient physiotherapy
+
+- I also have knowledge in:
+ -Frontend: HTML, CSS, Javascript, ReactJS and NextJS
+ -Backend: REST API, Relational (MySQL, SQLite, PostgreSQL) and non-relational (Firebase, MongoDB databases)
+ -Code Versioning: Git and GitHub
+ -Other languages: Java, C++ and Python
+
+In addition to HardSkills, I have the following SoftSkills:
+ - Self-taught to seek knowledge
+ - Adaptation to various scenarios and sudden changes in companies.
+ - Practical and objective in solving problems.
+ - Teamwork, as I've worked with several people in several different teams. for 10 years.
+
+
 
