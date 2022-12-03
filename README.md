@@ -9,8 +9,9 @@ Programmer, mobile developer. I am currently working on developing applications 
 - I also have knowledge in:
 	 - Frontend: HTML, CSS, Javascript, ReactJS and NextJS
 	 - Backend: REST API, Relational (MySQL, SQLite, PostgreSQL) and non-relational (Firebase, MongoDB databases)
-     - Code Versioning: Git and GitHub
-     - Other languages: Java, C++ and Python
+    	 - Code Versioning: Git and GitHub
+     	 - Other languages: Java, C++ and Python
+     	 - Kanban methodology. I use the methodology to manage my projects
 
 In addition to HardSkills, I have the following SoftSkills:
  - Self-taught to seek knowledge
