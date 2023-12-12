@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programmer, mobile developer. I am currently working on developing applications for Android / IOS using React Native according to customer demand
+ I am currently working on machine learning / deep learning
 
 - I've worked for 3 years with software development: 
 	- software in the petroleum area and 
