@@ -1,23 +1,14 @@
 ### Hi there 👋
 
- I am currently working on machine learning / deep learning
+Wilgo Moreira Nunes Cardoso is a mechanical engineer with a career marked by academic research and a solid ten-year professional experience in the field of engineering. 
 
-- I've worked for 3 years with software development: 
-	- software in the petroleum area and 
-	- other software for use in patient physiotherapy
+He graduated in Mechanical Engineering from the Federal University of Ceará and deepened his specialization by completing a master's degree in the same area at the Federal University of Uberlândia, Brazil. 
 
-- I also have knowledge in:
-	 - Frontend: HTML, CSS, Javascript, ReactJS and NextJS
-	 - Backend: REST API, Relational (MySQL, SQLite, PostgreSQL) and non-relational (Firebase, MongoDB databases)
-    - Code Versioning: Git and GitHub
-    - Other languages: Java, C++ and Python
-    - Kanban methodology. I use the methodology to manage my projects
+During his undergraduate and master's studies, he stood out in research focused on cable-based parallel manipulators for shoulder rehabilitation, making significant contributions to the field with publications in international conferences. 
 
-In addition to HardSkills, I have the following SoftSkills:
- - Self-taught to seek knowledge
- - Adaptation to various scenarios and sudden changes in companies.
- - Practical and objective in solving problems.
- - Teamwork, as I've worked with several people in several different teams. for 10 years.
+After his academic formation, Wilgo took on technical leadership positions, serving as Technical Coordinator in renowned companies such as Petrobras Distribuidora SA and the EBSERH, where he applied his engineering knowledge to solve complex challenges and optimize processes. 
+
+In December 2023, he began a PhD in Electrical Engineering and Intelligent Systems at the University of Coimbra, Portugal, reaffirming his ongoing commitment to innovation and scientific research. Within the first four months of his PhD, Wilgo is active in the scientific community, maintaining a digital presence through his GitHub page, where he shares projects and collaborations.
 
 
 
