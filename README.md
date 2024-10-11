@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-Wilgo Moreira Nunes Cardoso is currently pursuing a PhD in Electrical Engineering and Intelligent Systems at the University of Coimbra, Portugal, a journey he began in December 2023. In the early months of his PhD, he has been actively involved in scientific research, contributing to the community through his GitHub page, where he shares various projects and collaborations.
+Wilgo Moreira Nunes Cardoso is currently pursuing a PhD in Electrical Engineering and Intelligent Systems at the University of Coimbra, Portugal, which he began in December 2023. His research focuses on projects involving computer vision, deep learning, and machine learning. In the early months of his PhD, Wilgo has actively contributed to the scientific community through his GitHub page, where he shares his projects and collaborations.
 
-Prior to his PhD, Wilgo built a solid ten-year professional career in engineering, holding key leadership roles. He served as Technical Coordinator at Petrobras Distribuidora SA and EBSERH, where he utilized his expertise to address complex challenges and streamline processes.
+Prior to his PhD, Wilgo accumulated ten years of professional experience, holding leadership roles such as Technical Coordinator at Petrobras Distribuidora SA and EBSERH, where he applied his engineering expertise to tackle complex challenges and optimize processes.
 
-His academic foundation is in Mechanical Engineering, having completed both his undergraduate degree at the Federal University of Ceará and a master's degree at the Federal University of Uberlândia, Brazil. During his studies, Wilgo conducted significant research on cable-based parallel manipulators for shoulder rehabilitation, leading to several publications in international conferences.
+He holds a degree in Mechanical Engineering from the Federal University of Ceará and a master’s degree in the same field from the Federal University of Uberlândia, Brazil. During his academic career, Wilgo conducted notable research on cable-based parallel manipulators for shoulder rehabilitation, which resulted in multiple publications in international conferences.
 
-His career exemplifies a deep commitment to innovation, scientific research, and practical engineering solutions.
-
+His work reflects a strong commitment to innovation, scientific research, and practical engineering solutions.
 
 
