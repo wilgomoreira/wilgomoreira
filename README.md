@@ -20,6 +20,6 @@ Remote roles in Computer Vision, Machine Learning, and Applied AI.
 
 ## Connect
 📧 wilgomoreira@gmail.com  
-🔗 [LinkedIn](your-linkedin-url)
+🔗 [LinkedIn](https://www.linkedin.com/in/wilgomoreira/)
 
 
