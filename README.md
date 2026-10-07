@@ -102,6 +102,7 @@
 
 | Year | Title | Venue | Type |
 |------|-------|-------|------|
+| 2026 | C2F-SL: A Calibrated Cascade Framework for Soft Label Generation in Multispectral Segmentation | ICIST26, IEEE | Oral |
 | 2025 | A Spatial Dense CRF Framework for Post-Processing in Multispectral Image Segmentation | IbPRIA25, Springer | Oral |
 | 2024 | Multispectral Image Segmentation in Agriculture: Evaluating DL Models with Train-Test Split and Cross-Validation | ROBOT24, IEEE | Oral |
 | 2024 | A Probabilistic Framework Applied to Multispectral Image Segmentation | ICIR24, IEEE | Poster |
